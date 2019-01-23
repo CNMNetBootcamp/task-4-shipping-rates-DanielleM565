@@ -7,6 +7,7 @@ namespace Task4
         static void Main(string[] args)
         {
             //setup
+            //TODO: Initialize all variables
             double weight;
             string shippingCost;
             string continueResponse = "Y";
